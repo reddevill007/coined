@@ -1,5 +1,6 @@
 # [COINED](https://coinedd.netlify.app/) - Crytocurrency Educational & News Website
 
+## Demo
 To preview our project please visit to our website [coined](https://coinedd.netlify.app/)
 
 ## What is coined ?
@@ -108,3 +109,11 @@ Search news for any cryptocurrency usinhg our search filter option
 Our project is based on crypto currency and it is beginner friendly. Any new user who have a brief idea of crypto currency and want to know further can use this platform and any new user who is interested in buying or selling crypto can use our website to gain proper and real time knowledge of crypto currency. The user will get a real time view , newsletters, daily updates of market revenue and statistics to learn the graphs including its price 24 hour volume, daily price change detailed visuals through graph itself and see the crypto is getting bulled or beard. Our website will also provide the latest news of shattering and incoming of each and every crypto currency.
 
 We develop a decision-making framework for determining participant's investment and laboring intensity on tokenized platforms, i.e., digital platforms with block-chain implementation. The framework builds on the platform development model that integrates participants' three roles on tokenized platforms - user, investor, and laborer - in platform's multi-facet utility for participants. 
+
+
+## Contributing
+
+Contributions are always welcome!
+Found a bug? Have a suggestion?
+
+Please submit issues/pull requests if you have feedback or would like to contribute.
