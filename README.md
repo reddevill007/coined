@@ -1,6 +1,6 @@
 # [COINED](https://coinedd.netlify.app/) - Crytocurrency Educational & News Website
 
-To preview our project please visit to our website coined(https://coinedd.netlify.app/)
+To preview our project please visit to our website [coined](https://coinedd.netlify.app/)
 
 ## What is coined ?
 
